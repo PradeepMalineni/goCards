@@ -1,5 +1,28 @@
 import pandas as pd
 
+Mid-Year Review – Software Engineer
+
+Success and Accomplishments
+	•	Successfully led the VFD migration for multiple VIPs with zero issues reported in production, demonstrating attention to detail and strong execution capabilities.
+	•	Created comprehensive documentation for the VFD process, enabling team-wide clarity, smoother onboarding, and consistent reference for future efforts.
+	•	Designed and implemented automation solutions that enhanced efficiency and reduced manual intervention in recurring workflows, particularly in projects like COP.
+	•	Took proactive ownership in identifying and addressing unauthorized traffic, contributing directly to improved production stability and security posture.
+	•	Recognized for delivering compliant solutions and maintaining high standards in quality and governance throughout project cycles.
+
+Areas of Focus (Going Forward)
+	•	Drive AI adoption initiatives, identifying areas where machine learning or automation can further streamline operations or decision-making.
+	•	Develop a plan to integrate AI capabilities in the team’s day-to-day tools or long-term strategy while ensuring alignment with organizational policies and ethics.
+	•	Expand cross-team collaboration to share automation best practices and scale successful implementations across other projects.
+
+Risk Overlay
+	•	Proactively identified and mitigated production risks related to unauthorized access and traffic, reducing potential exposure and downtime.
+	•	Ensured all changes were compliant and secure, with no audit or policy violations during the period under review.
+	•	Intend to address AI-related risk overlays (e.g., bias, interpretability, compliance) early in the adoption process to avoid reactive fixes later and maintain regulatory alignment.
+
+Overall Summary
+
+This period has been marked by strong execution, proactive problem-solving, and meaningful contributions to infrastructure stability and team productivity. By successfully handling key technical migrations, introducing automation, and laying the groundwork for AI initiatives, I’ve aimed to align closely with team and organizational goals. The second half of the year will be focused on expanding impact through AI innovation, risk-aware planning, and cross-functional collaboration.
+
 # Load the data from a CSV file
 # The CSV should have columns: Name, EXP, YOS_EXP, Performance, Salary, Position
 file_path = "employee_data.csv"  # Specify your CSV file path here
